@@ -1,0 +1,4 @@
+[04-Jun-2017 00:44:18 Europe/Moscow] PHP Notice:  Undefined offset: 2 in /home/zoaddarc/public_html/zoaddar.org/zthg/app/validation.php on line 37
+[04-Jun-2017 00:44:18 Europe/Moscow] PHP Notice:  Undefined index: Popol in /home/zoaddarc/public_html/zoaddar.org/zthg/app/validation.php on line 38
+[04-Jun-2017 00:44:18 Europe/Moscow] PHP Notice:  Undefined offset: 2 in /home/zoaddarc/public_html/zoaddar.org/zthg/app/validation.php on line 37
+[04-Jun-2017 00:44:18 Europe/Moscow] PHP Notice:  Undefined index: dynamic in /home/zoaddarc/public_html/zoaddar.org/zthg/app/validation.php on line 38

@@ -1,0 +1,20 @@
+name;text;required;Enter Your Name
+fname;text;required|alpha|min_len,6;Enter Your Father's Name
+mname;text;required|alpha_dash|max_len,8;Enter Your Mother's Name
+roll;text;required|integer|exact_len,6;Enter Your Roll
+reg;text;required|integer|exact_len,7;Enter Your Registration
+gpa;text;required|float;Enter Your Grade
+mobile;text;required|phone_number|or,13!17;Check Your Mobile
+dob;text;required|date;Enter Your Date of Birth
+nid;text;required|integer|or,13!17;Check Your NID
+email;text;required|valid_email;Check Your Email
+address;text;required|street_address;Check Street Address
+web;text;required|valid_url;Enter Your Website
+iban;text;required|iban;Check IBAN
+ccard;text;required|valid_cc;Check Your credit card
+ip;text;required|valid_ip;Check IP address
+ipv4;text;required|valid_ipv4;Check IPv4 address
+ipv6;text;required|valid_ipv6;Check IPv6 address
+vname;text;required|valid_name;Enter Your Valid Name
+aname;text;required|alpha_numeric;Enter Your Name (0-9 & a-z,A-Z)
+dname;text;required|alpha_dash;Enter Your Name with space
